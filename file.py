@@ -4,3 +4,5 @@ iris_dataset = load_iris()
 iris_dataset.keys()
 iris_dataset['target_names']
 iris_dataset['target']
+iris_dataset['data']
+
